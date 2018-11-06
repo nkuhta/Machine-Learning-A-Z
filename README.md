@@ -1,7 +1,6 @@
 # Data Preprocessing
-**[Array Problems]()**  
-&ensp; Anagram function,  Array Pair Sum,  Find the Missing Element, Largest Continuous Sum, Sentence Reversal,  String  
-&ensp; Compression,  Unique String Characters.  
+**[Missing Data]()**  
+&ensp; How to deal with missing data by replacing with column mean.  
 **[Dynamic Arrays]()**   
 &ensp; Managing list capacity
 
