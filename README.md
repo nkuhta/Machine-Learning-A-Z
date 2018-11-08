@@ -10,8 +10,8 @@
 **[Simple Linear Regression](https://github.com/nkuhta/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.py)**  
 &ensp;  Two variables, experience and salary, fitting on training data, and visualizing the fit on the test data.  
 **[Multiple Linear Regression](https://github.com/nkuhta/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/Section%205%20-%20Multiple%20Linear%20Regression/multiple_linear_regression.py)**  
-&ensp;  4 independent variables.  Encoding for one categorical variable.  Predicting from the test data, and comparing it to dependent test data.  Optimizing fit by finding most significant features through  
-&ensp;  backward elimination.  
+&ensp;  4 independent variables.  Encoding for one categorical variable.  Predicting from the test data, and comparing it to dependent 
+&ensp;  test data.  Optimizing fit by finding most significant features through backward elimination.  
 
 
 #  References
