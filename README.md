@@ -12,7 +12,7 @@
 **[Multiple Linear Regression](https://github.com/nkuhta/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/Section%202%20-%20Multiple%20Linear%20Regression/multiple_linear_regression.py)**  
 &ensp;  4 independent variables.  Encoding for one categorical variable.  Predicting from the test data, and comparing it to  
 &ensp;  dependent test data.  Optimizing fit by finding most significant features through backward elimination.  
-**[Polynomial Regression]()**  
+**[Polynomial Regression](https://github.com/nkuhta/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/Section%203%20-%20Polynomial%20Regression/polynomial_regression.py)**  
 &ensp;  Create Salary Bluffing model from Job Position Salary data.  Fit to predict salary based on 4th degree polynomial.  
 
 
