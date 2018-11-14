@@ -14,8 +14,8 @@
 &ensp;  dependent test data.  Optimizing fit by finding most significant features through backward elimination.  
 **[Polynomial Regression](https://github.com/nkuhta/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/Section%203%20-%20Polynomial%20Regression/polynomial_regression.py)**  
 &ensp;  Create salary bluffing model from job position level salary data.  Fit to predict salary based on 4th degree polynomial.  
-
-
+**[Support Vector Regression (SVR)]()**  
+$ensp;  Scale feature salary position data and fit using SVR.  
  
 #  References
 1.  **Machine Learning A-Z** - Udemy  
