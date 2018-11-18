@@ -16,8 +16,10 @@
 &ensp;  Create salary bluffing model from job position level salary data.  Fit to predict salary based on 4th degree polynomial.  
 **[Support Vector Regression (SVR)](https://github.com/nkuhta/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Support%20Vector%20Regression%20(SVR)/svr.py)**  
 &ensp;  Scale feature salary position data and fit using SVR.  
- 
- 
+**[Decision Tree Regression](https://github.com/nkuhta/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/Section%205%20-%20Decision%20Tree%20Regression/decision_tree_regression.py)**   
+&ensp;  Use position salary data once again to fit and plot the stepwise decision tree regression prediction.  
+
+
  
 #  References
 1.  **Machine Learning A-Z** - Udemy  
