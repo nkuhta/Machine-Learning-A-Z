@@ -44,4 +44,4 @@ plt.show()
 #  R^2 for this model 
 from sklearn.metrics import r2_score
 y_pred_tot = regressor.predict(X)
-print(r2_score(y,y_pred_tot))
+print('R_Squared = ', r2_score(y,y_pred_tot))
